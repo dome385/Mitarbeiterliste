@@ -33,7 +33,7 @@ class App extends React.Component {
             <Scroll>
             <MitarbeiterListe mitarbeiter={filterMitarbeiter} />
             </Scroll>
-            <p id="untertitel">Diese Bilder wurden mit Midjourney erstellt.</p>
+            <p id="untertitel">Diese Bilder wurden mit Midjourney generiert.</p>
             </div>
         );
 
