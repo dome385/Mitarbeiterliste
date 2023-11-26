@@ -1,5 +1,7 @@
 ![](https://github.com/dome385/mitarbeiterliste/blob/main/recording.gif)
 
+Eine Mitarbeiterliste erstellt mit ReactJS, die dynamisch ist.
+
 
 # Getting Started with Create React App
 
